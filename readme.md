@@ -2,7 +2,6 @@
     <h1>🛡️ Zero-Trust Function Mesh</h1>
     <p><em>Secure, Scalable, Serverless</em></p>
     
-    [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 </div>
 
 ----
