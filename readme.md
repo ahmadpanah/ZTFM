@@ -1,4 +1,11 @@
-# Zero-Trust Function Mesh (ZTFM)
+<div align="center">
+    <h1>🛡️ Zero-Trust Function Mesh</h1>
+    <p><em>Secure, Scalable, Serverless</em></p>
+    
+    [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+</div>
+
+----
 
 Zero-Trust Function Mesh (ZTFM) is a cutting-edge framework designed to address the unique security challenges of serverless architectures. By leveraging dynamic sidecar provisioning, horizontal token cache scaling, and stateless policy distribution, ZTFM ensures secure and efficient scaling of serverless functions while maintaining low-latency performance.
 
